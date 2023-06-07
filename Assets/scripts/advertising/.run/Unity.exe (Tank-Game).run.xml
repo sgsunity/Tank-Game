@@ -1,0 +1,10 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unity.exe (Tank-Game)" type="UnityPlayer" factoryName="UnityAttachToPlayer">
+    <option name="host" value="127.0.0.1" />
+    <option name="pid" value="9024" />
+    <option name="playerId" value="Editor(Unity.exe-Tank-Game)" />
+    <option name="port" value="56024" />
+    <option name="projectName" value="Tank-Game" />
+    <method v="2" />
+  </configuration>
+</component>
